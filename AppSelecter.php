@@ -44,5 +44,5 @@ while ($arow = mysql_fetch_assoc($all)) {
         }
     }
 }
-
+//hellow
 header("Location:DeptApps.php");
